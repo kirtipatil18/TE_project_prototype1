@@ -22,6 +22,8 @@
     <string name="string_login">LOGIN</string>
     <string name="enter_password">Enter Password</string>
     <string name="not_having_an_account">NOT HAVING AN ACCOUNT</string>
-    <string name="login">LOGIN</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email_id">Enter Email ID</string>
+
 
 </resources>

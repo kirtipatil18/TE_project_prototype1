@@ -38,8 +38,9 @@
         android:layout_below="@+id/line"
         android:gravity="bottom"
         android:inputType="textPersonName"
-        android:text="Enter Name"
-        android:textColor="@color/colorPrimaryDark" />
+        android:text="@string/enter_name"
+        android:textColor="@color/colorPrimaryDark"
+        android:importantForAutofill="no" />
 
     <EditText
         android:id="@+id/ipemail"
@@ -47,9 +48,11 @@
         android:layout_height="50dp"
         android:layout_below="@+id/ipname"
         android:gravity="bottom"
-        android:text="Enter Email ID"
+        android:text="@string/enter_email_id"
         android:textColor="@color/colorPrimaryDark"
-        android:inputType="textEmailAddress" />
+        android:inputType="textEmailAddress"
+        android:importantForAutofill="no"
+        />
 
     <EditText
         android:id="@+id/ippassword"
@@ -59,7 +62,9 @@
         android:gravity="bottom"
         android:text="@string/enter_password"
         android:textColor="@color/colorPrimaryDark"
-        android:inputType="numberPassword" />
+        android:inputType="numberPassword"
+        android:importantForAutofill="no"
+        />
 
     <Button
         android:id="@+id/signup"

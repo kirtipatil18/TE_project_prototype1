@@ -24,6 +24,9 @@
     <string name="not_having_an_account">NOT HAVING AN ACCOUNT</string>
     <string name="enter_name">Enter Name</string>
     <string name="enter_email_id">Enter Email ID</string>
-
+    <string name="sugg">SUGGESTIONS</string>
+    <string name="sugglink1">
+        <a href="https://www.instagram.com/tv/CGKi5WDDxH2/?igshid=r1pwyh5r29zr">This is a link!</a>
+    </string>
 
 </resources>

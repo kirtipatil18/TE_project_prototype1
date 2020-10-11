@@ -40,7 +40,8 @@
         android:inputType="textPersonName"
         android:text="@string/enter_name"
         android:textColor="@color/colorPrimaryDark"
-        android:importantForAutofill="no" />
+        android:importantForAutofill="no"
+        android:labelFor="@+id/ipname"/>
 
     <EditText
         android:id="@+id/ipemail"
@@ -52,6 +53,7 @@
         android:textColor="@color/colorPrimaryDark"
         android:inputType="textEmailAddress"
         android:importantForAutofill="no"
+        android:labelFor="@+id/ipemail"
         />
 
     <EditText
@@ -64,6 +66,7 @@
         android:textColor="@color/colorPrimaryDark"
         android:inputType="numberPassword"
         android:importantForAutofill="no"
+        android:labelFor="@+id/ippassword"
         />
 
     <Button

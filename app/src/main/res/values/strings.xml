@@ -17,5 +17,11 @@
 
     <string name="com.twitter.sdk.android.CONSUMER_KEY">Tpox4IIoYZWzFw4ccsweKWlNE</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">gTpqdTGSBUfQzCJx2enXiJ0OtnCWkyyM6rEvIBFT5RfY2PnKVG</string>
+    <string name="welcomemessage">Welcome to XYZ</string>
+    <string name="login">LOGIN</string>
+    <string name="string_login">LOGIN</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="not_having_an_account">NOT HAVING AN ACCOUNT</string>
+    <string name="login">LOGIN</string>
 
 </resources>

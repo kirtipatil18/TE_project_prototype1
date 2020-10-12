@@ -26,7 +26,19 @@
     <string name="enter_email_id">Enter Email ID</string>
     <string name="sugg">SUGGESTIONS</string>
     <string name="sugglink1">
-        <a href="https://www.instagram.com/tv/CGKi5WDDxH2/?igshid=r1pwyh5r29zr">This is a link!</a>
+        <a href="https://youtu.be/aQIqQ2-lyO8">How to Meditate?</a>
+    </string>
+    <string name="sugglink2">
+        <a href="https://youtu.be/aQIqQ2-lyO8">How to Relax in 2 minutes?</a>
+    </string>
+    <string name="sugglink3">
+        <a href="https://youtu.be/aQIqQ2-lyO8">How to calm anxiety?</a>
+    </string>
+    <string name="sugglink4">
+        <a href="https://youtu.be/aQIqQ2-lyO8">How to manage stress?</a>
+    </string>
+    <string name="sugglink5">
+        <a href="https://youtu.be/aQIqQ2-lyO8">How to manage depression?</a>
     </string>
 
 </resources>

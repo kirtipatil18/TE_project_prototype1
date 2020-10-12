@@ -12,7 +12,6 @@ public class userInfoActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user_info);
-        TextView text = (TextView) findViewById(R.id.link1);
-        text.setMovementMethod(LinkMovementMethod.getInstance());
+
     }
 }

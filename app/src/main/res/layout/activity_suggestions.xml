@@ -15,18 +15,74 @@
         android:gravity="center"
         android:text="@string/sugg"
         android:textColor="@color/colorPrimaryDark"
-        android:textSize="60sp"
+        android:textSize="55sp"
         android:textStyle="bold"
         tools:targetApi="jelly_bean" />
 
     <TextView
         android:id="@+id/link1"
         android:layout_width="match_parent"
-        android:layout_height="500dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/tw__composer_white"
+        android:background="@color/colorPrimaryDark"
         android:layout_below="@+id/sugg"
-        android:layout_marginTop="50sp"
+        android:layout_marginTop="80dp"
         android:text="@string/sugglink1"
         android:textSize="25sp"
         />
+
+    <TextView
+        android:id="@+id/link2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/tw__composer_white"
+        android:background="@color/colorPrimaryDark"
+        android:layout_below="@+id/link1"
+        android:layout_marginTop="20dp"
+        android:text="@string/sugglink2"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:id="@+id/link3"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/tw__composer_white"
+        android:background="@color/colorPrimaryDark"
+        android:layout_below="@+id/link2"
+        android:layout_marginTop="20dp"
+        android:text="@string/sugglink3"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:id="@+id/link4"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/tw__composer_white"
+        android:background="@color/colorPrimaryDark"
+        android:layout_below="@+id/link3"
+        android:layout_marginTop="20dp"
+        android:text="@string/sugglink4"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:id="@+id/link5"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/tw__composer_white"
+        android:background="@color/colorPrimaryDark"
+        android:layout_below="@+id/link4"
+        android:layout_marginTop="20dp"
+        android:text="@string/sugglink5"
+        android:textSize="25sp"
+        />
+
 
 </RelativeLayout>
